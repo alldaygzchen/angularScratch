@@ -1,0 +1,9 @@
+{
+  "places": [
+    { "country": "A", "city": "Taipei" },
+    { "country": "B", "city": "Taipei" },
+    { "country": "C", "city": "Taipei" },
+    { "country": "D", "city": "Taipei" },
+    { "country": "E", "city": "Taipei" }
+  ]
+}

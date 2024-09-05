@@ -1,1 +1,4 @@
-<p>Start</p>
+@if (error) {
+<app-error-modal title="An error occurred!" [message]="error" />
+}
+<app-tables></app-tables>
